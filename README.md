@@ -2,7 +2,9 @@
 
 ## Repositório destinado a ajudar você, fpvzeiro raiz, que montou seu droninho e estava voando lindamente por cima de um matagal, quando do nada perdeu o sinal e ele caiu no meio do mato.
 
-![Drone](./img/Drone.jpeg)
+![Drone](./img/Drone.png)
+
+<img src="https://github.com/Luidoo/droneFinder/img/Drone.png" alt="Drone" width="400" height="300">
 
 
 Com a ajuda de um drone comercial, por exemplo, um Mavic, sobrevoe e grave a região da queda. Mude as definições de cor HSV no código, que ao executar, todos os frames nos quais a cor foi detectada serão salvos na pasta ./frames, facilitando sua busca!
