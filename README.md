@@ -24,7 +24,4 @@ python3 droneFinder.py ~/path/ate/seu/video.mp4
 ```
 Boa sorte aos amantes de hélices verdes!
 
-![Drone](./img/Drone.png)
-# test
-
-<img src="https://raw.githubusercontent.com/Luidooo/droneFinder/main/img/Drone.png" alt="Drone" width="400" height="300">
+<img src="https://raw.githubusercontent.com/Luidooo/droneFinder/main/img/Drone.png" alt="Drone" width="400" height="500">
