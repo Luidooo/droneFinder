@@ -31,9 +31,10 @@ def process_video(video_path, lower_color, upper_color):
         if contours:
             frame_filename = os.path.join('frames', f'frame_{frame_count}.jpg')
             cv2.imwrite(frame_filename, frame)
-            delay = 30 
+            #delay eh a quntidade de frames por segundo que sera mostrada, mudando esse valor, voce altera a velocidade de reproducao do video
+            delay = 5
         else:
-            delay = 5  
+            delay = 5
         
         for contour in contours:
             cv2.drawContours(frame, [contour], -1, (0, 255, 0), 3)

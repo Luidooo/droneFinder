@@ -22,6 +22,8 @@ Execute no terminal:
 ```python
 python3 droneFinder.py ~/path/ate/seu/video.mp4
 ```
+Pressione "q" para sair do video. 
+
 Boa sorte aos amantes de hélices verdes!
 
 <img src="https://raw.githubusercontent.com/Luidooo/droneFinder/main/img/Drone.png" alt="Drone" width="400" height="500">
